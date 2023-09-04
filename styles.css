@@ -1,0 +1,31 @@
+/* styles.css */
+
+/* Color primario para el fondo y algunos elementos de texto */
+body {
+  background-color: #1b0088;
+}
+
+/* Color secundario para el texto y enlaces */
+.navbar-dark .navbar-nav .nav-link {
+  color: #ffffff;
+}
+
+/* Cambiar el color del texto del encabezado principal a blanco */
+.display-4 {
+  color: #ffffff;
+}
+
+/* Cambiar el color de los textos en el pie de página a blanco */
+footer {
+  color: #ffffff;
+}
+
+/* Cambiar el color de los enlaces en el pie de página a blanco */
+footer .nav-link {
+  color: #ffffff;
+}
+
+/* Cambia el color del texto de los números de teléfono y correo electrónico */
+.contact-info {
+  color: #ffffff; 
+}
